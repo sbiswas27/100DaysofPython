@@ -10,6 +10,8 @@
 #When the user is right, B becomes A and we choose another random dict which will become B
 #keep adding the score
 
+#Demo Link: https://www.higherlowergame.com/
+
 from art import logo,vs
 from game_data import data
 import random
