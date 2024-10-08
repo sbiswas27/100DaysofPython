@@ -1,3 +1,5 @@
+# PDF Steps to complete the project: https://drive.google.com/uc?export=download&id=1eIZt2TeFGVrk4nXkx8E_5Slw2coEcOUo
+
 MENU = {
     "espresso": {
         "ingredients": {
