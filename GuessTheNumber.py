@@ -1,3 +1,5 @@
+# Demo Link: https://appbrewery.github.io/python-day12-demo/
+
 import random
 
 EASY_LEVEL=10
